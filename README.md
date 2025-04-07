@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Álvaro
 
-<!--
-**alvarogrlp/alvarogrlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente estoy cursando **1º de Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me apasiona la programación y estoy en proceso de aprender y experimentar con distintas tecnologías mientras construyo mis primeros proyectos.
 
-Here are some ideas to get you started:
+### 💻 Tecnologías que estoy aprendiendo:
+- Java & JavaFX
+- SQL Server
+- HTML, CSS & JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚧 Proyectos destacados:
+- 🎮 [Juego del Ahorcado](https://github.com/alvarogrlp/juegoAhorcado): desarrollado con Java y JavaFX.
+- 🦸‍♂️ Simulador de combates de Marvel (en desarrollo): hecho con Java, JavaFX y CSS.
+
+### 📫 Contacto
+¿Quieres hablar o colaborar en algo? Puedes escribirme a:  
+📧 **alvarogarciaprof@gmail.com**
+
+---
+
+> *Este perfil está en constante evolución, igual que yo como programador. ¡Nos vemos por el código!*
