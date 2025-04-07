@@ -42,8 +42,6 @@ Me gusta **programar**, **crear interfaces** y **dar vida a ideas** con código.
 
 ---
 
-### 🐍 My GitHub contribution snake
-
 ![snake 
 svg](https://github.com/alvarogrlp/snk/raw/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 
