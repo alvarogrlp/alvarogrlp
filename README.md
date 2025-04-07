@@ -9,7 +9,7 @@ Actualmente estoy cursando **1º de Desarrollo de Aplicaciones Multiplataforma (
 
 ### 🚧 Proyectos destacados:
 - 🎮 [Juego del Ahorcado](https://github.com/alvarogrlp/juegoAhorcado): desarrollado con Java y JavaFX.
-- 🦸‍♂️ Simulador de combates de Marvel (en desarrollo): hecho con Java, JavaFX y CSS.
+- 🦸‍♂️ [Simulador de combates de Marvel](https://github.com/alvarogrlp/simuladorDeMarvel) (en desarrollo): hecho con Java, JavaFX y CSS.
 
 ### 📫 Contacto
 ¿Quieres hablar o colaborar en algo? Puedes escribirme a:  
