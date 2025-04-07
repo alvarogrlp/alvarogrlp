@@ -41,6 +41,6 @@ Me gusta **programar**, **crear interfaces** y **dar vida a ideas** con código.
 </p>
 
 <p align="center">
-  <img src="https://github.com/franciscorodalf/franciscorodalf/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/alvarogrlp/alvarogrlp/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
