@@ -40,7 +40,10 @@ Me gusta **programar**, **crear interfaces** y **dar vida a ideas** con código.
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0072FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Aprendiendo+y+creciendo+como+programador;¡Bienvenido+a+mi+GitHub!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/alvarogrlp/alvarogrlp/blob/output/github-contribution-grid-snake.svg" />
-</p>
+---
+
+### 🐍 My GitHub contribution snake
+
+![snake gif](https://github.com/alvarogrip/snk/raw/manual-run-output/docker/github-contribution-grid-snake.gif)
+
 
