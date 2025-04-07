@@ -32,7 +32,3 @@ Me gusta **programar**, **crear interfaces** y **dar vida a ideas** con código.
 📩 **alvarogarciaprof@gmail.com**
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0072FF&center=true&vCenter=true&multiline=true&width=500&height=60&lines=AAprendiendo+y+creciendo+como+programador;Bienvenido+a+mi+GitHub!+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
