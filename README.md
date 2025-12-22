@@ -99,20 +99,3 @@
   </table>
 </div>
 
----
-
-<h3 align="center">📊 Actividad en GitHub</h3>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvarogrlp&theme=noborder_light&hide_border=true&ring=3F8CFF&fire=3F8CFF&currStreakLabel=3F8CFF" alt="Racha de Código" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center">
-  <img src="https://github.com/alvarogrlp/snk/raw/manual-run-output/only-svg/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-</p>
