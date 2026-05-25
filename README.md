@@ -1,125 +1,173 @@
 <div align="center">
   <a href="https://alvarogrlp.vercel.app/">
-    <img src="https://img.shields.io/badge/Visita_mi-Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Visita mi Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <br><br>
-  <table border="0">
-    <tr>
-      <td width="60%" valign="center">
-        <h1>¡Hola, soy Álvaro!</h1>
-        <h3>📲 Desarrollador Multiplataforma</h3>
-        <p>
-           Desarrollador de aplicaciones con fuerte orientación al aprendizaje práctico. <br>
-           Me motiva comprender a fondo el funcionamiento de la tecnología y <b>transformar ideas en herramientas reales</b>.
-        </p>
-        <br>
-        <a href="mailto:alvarogarciaprof@gmail.com">
-          <img src="https://img.shields.io/badge/Contactar_vía_Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-        </a>
-      </td>
-      <td width="40%" valign="center" align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8b5cf6&center=true&vCenter=true&width=320&lines=Desarrollador+Java;React+Native+%26+Expo;Spring+Boot+%26+Backend;Flutter+Developer" />
-      </td>
-    </tr>
-  </table>
+  <a href="mailto:alvarogarciaprof@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alvarogarciaprof%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/alvarogrlp">
+    <img src="https://img.shields.io/badge/GitHub-alvarogrlp-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
----
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <h3>🚀 Stack Principal</h3>
-        <p>Lo que uso para construir proyectos hoy:</p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-      </td>
-      <td align="center" width="50%">
-        <h3>🧠 Aprendiendo & Futuro</h3>
-        <p>Expandiendo mis conocimientos hacia:</p>
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<h3>📂 Proyectos Destacados</h3>
+<br>
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🍷 VinIA</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-         <img src="https://img.shields.io/badge/AI-ff0000?style=flat-square&logo=openai&logoColor=white" />
-      </div>
-      <p align="center">
-        Plataforma de gestión inteligente potenciada por <b>Inteligencia Artificial</b>. <br>
-        Stack: Expo, React Native, Spring Boot, AI.
-        <br><br>
-        <a href="https://github.com/alvarogrlp/VinIA"><b>Ver Código &rarr;</b></a>
+    <td width="62%" valign="top">
+      <h1>Álvaro García López</h1>
+      <h3>Desarrollador de aplicaciones multiplataforma</h3>
+      <p>
+        Desarrollo aplicaciones útiles con una base técnica clara, interfaces funcionales y una orientación práctica a la resolución de problemas.
+        Me interesa entender bien cómo funciona la tecnología y convertir ideas en herramientas reales.
+      </p>
+      <p>
+        Formación en Desarrollo de Aplicaciones Multiplataforma y Telecomunicaciones, con experiencia práctica en backend, frontend, móvil y arquitecturas de microservicios.
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🦸‍♂️ Simulador Marvel</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      </div>
-      <p align="center">
-        Combates estratégicos con habilidades activas/pasivas y estadísticas visuales. <br>
-        Stack: Java, JavaFX, POO.
-        <br><br>
-        <a href="https://github.com/alvarogrlp/simuladorDeMarvel"><b>Ver Código &rarr;</b></a>
-      </p>
+    <td width="38%" valign="top">
+      <h3>Perfil actual</h3>
+      <ul>
+        <li>Disponible para prácticas, junior roles y proyectos reales.</li>
+        <li>Tenerife, España.</li>
+        <li>Inglés B1.</li>
+        <li>Interés en backend, producto y privacidad.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
+---
+
+## Stack principal
+
 <div align="center">
-  <br>
-  <table width="100%">
-    <tr>
-      <td align="center" width="33%">
-        <h3>📱 Calculadora</h3>
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-        <br><br>
-        Modo oscuro, diseño adaptativo y animaciones suaves.<br>
-        Stack: React Native, TypeScript.
-        <br>
-        <a href="https://github.com/alvarogrlp/calculadora"><b>Ver Código &rarr;</b></a>
-      </td>
-      <td align="center" width="33%">
-        <h3>🎯 Tic Tac Toe</h3>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <br><br>
-        Juego clásico con IA usando minimax. <br>
-        Stack: JavaScript (44.8%), TypeScript (31.6%), Python (23.6%).
-        <br>
-        <a href="https://github.com/alvarogrlp/TicTacToe"><b>Ver Código &rarr;</b></a>
-      </td>
-      <td align="center" width="33%">
-        <h3>🌌 Galaxy Caos</h3>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-        <br><br>
-        Juego 2D Unity con shaders personalizados. <br>
-        Stack: C#, Unity 2D, ShaderLab, HLSL.
-        <br>
-        <a href="https://github.com/alvarogrlp/galaxyCaos"><b>Ver Código &rarr;</b></a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-111111?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/JWT-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/SQL_Server_%2F_SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Server y SQLite" />
 </div>
+
+<br>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Backend y sistemas</h3>
+      <p>Java, Spring Boot, APIs, bases de datos, JWT, Nginx, Docker, Keycloak y RabbitMQ.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Frontend y móvil</h3>
+      <p>React, React Native, Expo, TypeScript, Angular e interfaces limpias y adaptativas.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Proyectos destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Hermnet</h3>
+      <p>
+        Aplicación de mensajería instantánea orientada a respetar la privacidad de los usuarios.
+        Proyecto reciente con frontend React y backend Spring Boot.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" alt="React" />
+        <img src="https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Privacidad-111111?style=flat-square&logo=lock&logoColor=white" alt="Privacidad" />
+      </p>
+      <a href="https://github.com/Hermnet/Hermnet"><b>Ver proyecto</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>VinIA</h3>
+      <p>
+        Aplicación profesional para comerciales del sector vinícola, inspirada en sistemas ERP como Navision y potenciada con IA para apoyar la gestión comercial.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" alt="React" />
+        <img src="https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/IA-111111?style=flat-square&logo=openai&logoColor=white" alt="IA" />
+      </p>
+      <a href="https://github.com/alvarogrlp/VinIA"><b>Ver proyecto</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Simulador Marvel</h3>
+      <p>
+        Aplicación Java y JavaFX que simula combates entre personajes, con habilidades activas, pasivas, estadísticas visuales y lógica de combate.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/JavaFX-111111?style=flat-square&logo=openjdk&logoColor=white" alt="JavaFX" />
+      </p>
+      <a href="https://github.com/alvarogrlp/simuladorDeMarvel"><b>Ver proyecto</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Calculadora</h3>
+      <p>
+        Aplicación móvil con React Native y TypeScript, modo oscuro, diseño adaptativo, animaciones suaves e interfaz moderna.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-111111?style=flat-square&logo=react&logoColor=white" alt="React Native" />
+        <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Expo-111111?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+      </p>
+      <a href="https://github.com/alvarogrlp/calculadora"><b>Ver proyecto</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Galaxy Caos</h3>
+      <p>
+        Juego 2D en Unity con C#, ShaderLab y HLSL, centrado en físicas caóticas y comportamiento visual experimental.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-111111?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/Unity-111111?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+      </p>
+      <a href="https://github.com/alvarogrlp/galaxyCaos"><b>Ver proyecto</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Tic Tac Toe</h3>
+      <p>
+        Juego clásico con lógica híbrida en JavaScript, TypeScript y Python.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </p>
+      <a href="https://github.com/alvarogrlp/TicTacToe"><b>Ver proyecto</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Experiencia y formación
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Experiencia</h3>
+      <p><b>Consejería de Educación Canarias</b><br>Prácticas full stack durante 3 meses en una arquitectura de microservicios con Java, Spring Boot, Angular, Keycloak, RabbitMQ y Docker.</p>
+      <p><b>Omega Tenerife</b><br>Prácticas durante 3 meses en atención técnica, trabajo en equipo y resolución de incidencias con trato directo a usuarios.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Formación</h3>
+      <p><b>Grado Superior en Desarrollo de Aplicaciones Multiplataforma</b><br>IES Telesforo Bravo, 2024 - 2026.</p>
+      <p><b>Grado Medio de Telecomunicaciones</b><br>IES Telesforo Bravo, 2022 - 2024.</p>
+    </td>
+  </tr>
+</table>
