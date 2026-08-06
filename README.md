@@ -16,7 +16,7 @@
   <tr>
     <td width="62%" valign="top">
       <h1>Álvaro García López</h1>
-      <h3>Desarrollador de aplicaciones multiplataforma</h3>
+      <h3>Backend Developer • Java • Spring Boot</h3>
       <p>
         Desarrollo aplicaciones útiles con una base técnica clara, interfaces funcionales y una orientación práctica a la resolución de problemas.
         Me interesa entender bien cómo funciona la tecnología y convertir ideas en herramientas reales.
@@ -28,7 +28,7 @@
     <td width="38%" valign="top">
       <h3>Perfil actual</h3>
       <ul>
-        <li>Disponible para prácticas, junior roles y proyectos reales.</li>
+        <li>Disponible para oportunidades Backend y Full Stack Junior.</li>
         <li>Tenerife, España.</li>
         <li>Inglés B1.</li>
         <li>Interés en backend, producto y privacidad.</li>
@@ -44,14 +44,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-111111?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Keycloak-111111?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak" />
+  <img src="https://img.shields.io/badge/RabbitMQ-111111?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/Nginx-111111?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/JWT-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/SQL_Server_%2F_SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Server y SQLite" />
 </div>
 
 <br>
@@ -76,27 +75,59 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Hermnet</h3>
+      <h3>rag-lab</h3>
       <p>
-        Aplicación de mensajería instantánea orientada a respetar la privacidad de los usuarios.
-        Proyecto reciente con frontend React y backend Spring Boot.
+        Sistema RAG con consola interactiva y API REST para consultar documentos mediante IA. Incluye recuperación híbrida, evaluación     
+        automática, citas exactas y optimización de calidad frente a coste.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" alt="React" />
+        <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Qdrant-111111?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
+        <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <a href="https://github.com/alvarogrlp/rag-lab"><b>Ver proyecto</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Panacea</h3>
+      <p>
+        Aplicación web para consultar medicamentos oficiales de CIMA/AEMPS mediante búsqueda difusa, normalización clínica y caché local, 
+        priorizando rendimiento y privacidad.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-111111?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+        <img src="https://img.shields.io/badge/RxJS-111111?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS" />
+        <img src="https://img.shields.io/badge/Fuse.js-111111?style=flat-square&logo=javascript&logoColor=white" alt="Fuse.js" />
+        <img src="https://img.shields.io/badge/Vitest-111111?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+      </p>
+      <a href="https://github.com/alvarogrlp/Panacea"><b>Ver proyecto</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Hermnet</h3>
+      <p>
+        Aplicación de mensajería privada con cifrado híbrido de extremo a extremo, servidor de conocimiento cero y autenticación sin teléfono 
+        ni correo.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-111111?style=flat-square&logo=react&logoColor=white" alt="React Native" />
         <img src="https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/Privacidad-111111?style=flat-square&logo=lock&logoColor=white" alt="Privacidad" />
+        <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/E2EE-111111?style=flat-square&logo=shield&logoColor=white" alt="End-to-End Encryption" />
       </p>
       <a href="https://github.com/Hermnet/Hermnet"><b>Ver proyecto</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>VinIA</h3>
       <p>
-        Aplicación profesional para comerciales del sector vinícola, inspirada en sistemas ERP como Navision y potenciada con IA para apoyar la gestión comercial.
+        Plataforma de gestión comercial para bodegas con backend Spring Boot, IA mediante Spring AI y despliegue con Docker y Nginx.
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" alt="React" />
         <img src="https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/IA-111111?style=flat-square&logo=openai&logoColor=white" alt="IA" />
+        <img src="https://img.shields.io/badge/Spring_AI-111111?style=flat-square&logo=spring&logoColor=white" alt="Spring AI" />
+        <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       </p>
       <a href="https://github.com/alvarogrlp/VinIA"><b>Ver proyecto</b></a>
     </td>
@@ -126,31 +157,6 @@
       <a href="https://github.com/alvarogrlp/calculadora"><b>Ver proyecto</b></a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Galaxy Caos</h3>
-      <p>
-        Juego 2D en Unity con C#, ShaderLab y HLSL, centrado en físicas caóticas y comportamiento visual experimental.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-111111?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/Unity-111111?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-      </p>
-      <a href="https://github.com/alvarogrlp/galaxyCaos"><b>Ver proyecto</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Tic Tac Toe</h3>
-      <p>
-        Juego clásico con lógica híbrida en JavaScript, TypeScript y Python.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      </p>
-      <a href="https://github.com/alvarogrlp/TicTacToe"><b>Ver proyecto</b></a>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -161,7 +167,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Experiencia</h3>
-      <p><b>Consejería de Educación Canarias</b><br>Prácticas full stack durante 3 meses en una arquitectura de microservicios con Java, Spring Boot, Angular, Keycloak, RabbitMQ y Docker.</p>
+      <p><b>Consejería de Educación Canarias</b><br>Desarrollador principal en prácticas del proyecto Plataforma Guacamole, un sistema de microservicios desarrollado desde cero con Spring Boot, Angular, Keycloak, RabbitMQ, PostgreSQL y Docker.</p>
       <p><b>Omega Tenerife</b><br>Prácticas durante 3 meses en atención técnica, trabajo en equipo y resolución de incidencias con trato directo a usuarios.</p>
     </td>
     <td width="50%" valign="top">
